@@ -1,0 +1,5 @@
+transformers>=4.0.0
+openai>=1.0.0
+imapclient>=2.1.0
+email-validator>=2.0.0
+# getpass is part of Python standard library, no need to install
